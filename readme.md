@@ -1,0 +1,1 @@
+RT Expert project with the purpose of being a web app for the efficient seamless creation of "Recomendaciones técnicas"
